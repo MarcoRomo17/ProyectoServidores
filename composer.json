@@ -1,0 +1,14 @@
+{
+    "name": "useri5feb/proyecto_ecommerce",
+    "authors": [
+        {
+            "name": "MarcoRomo17",
+            "email": "utm23090604@utma.edu.mx"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "*",
+        "phpmailer/phpmailer": "*",
+        "openpay/sdk": "*"
+    }
+}
