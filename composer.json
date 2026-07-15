@@ -8,7 +8,8 @@
     ],
     "require": {
         "dompdf/dompdf": "*",
-        "phpmailer/phpmailer": "*",
-        "openpay/sdk": "*"
+        "phpmailer/phpmailer": "^7.1",
+        "openpay/sdk": "*",
+        "vlucas/phpdotenv": "^5.6"
     }
 }
